@@ -6,7 +6,7 @@
 * allow the college to search Alumni based on criteria such as year, department,name 
 * send emails to alumni using sendgrid
 * provision for Alumni to share,like and comment posts on Community tab
-* allow Alumni to change password and to reset password using email
+* allow Alumni to change password and to reset password using email OTP
 * Security features with login for every user.
 * FAQs asked by Alumni and answered by admin.
 * JWT token used to maintain logged in state of User
